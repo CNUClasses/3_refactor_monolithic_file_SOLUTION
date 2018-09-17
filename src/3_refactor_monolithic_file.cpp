@@ -11,10 +11,6 @@
 #include "../includes_usr/utilities.h"
 
 using namespace std;
-
-//default filenames for test
-const char* 		SOURCE_FILE = "testdata.txt";
-const char*		 	RESULTS_FILE = "results.txt";
 using namespace KP;
 
 int main() {
